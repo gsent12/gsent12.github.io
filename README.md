@@ -5,4 +5,5 @@
 - BERT Model -- [nbviewer]()
 
 ## Fantasy Football Visualization Project
+#### Fantasy football is very popular in America 
 - FF Vis -- [nbviewer](https://nbviewer.jupyter.org/github/gsent12/gsent12.github.io/blob/master/Fantasy_Football_Vis_Forecast.ipynb)
